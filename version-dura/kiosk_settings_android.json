@@ -1,0 +1,67 @@
+{
+  "kiosk_url": "https://trabajador.controldejornadalaboral.es",
+  "custom_app_title": "Control de Jornada Laboral",
+
+  "enable_timeout": true,
+  "idle_timeout": 30,
+  "idle_timeout_always_reload": true,
+
+  "reload_on_screen_on": true,
+
+  "theme": "Green",
+
+  "lock_rotation": true,
+  "rotation": "LANDSCAPE",
+
+  "fullscreen_mode": true,
+  "back_toggles_fullscreen": false,
+
+  "hide_action_bar": true,
+  "display_toolbar_swipe_down": false,
+
+  "show_browser_controls": false,
+  "show_home_icon": false,
+  "show_refresh_icon": false,
+  "show_back_icon": false,
+  "show_forward_icon": false,
+  "show_app_drawer_icon": false,
+  "show_bookmarks_icon": false,
+
+  "page_zooming": false,
+  "overview_mode": true,
+  "use_wide_viewport": true,
+
+  "timeout_cacheclear": false,
+  "timeout_storageclear": false,
+  "timeout_cookieclear": false,
+  "timeout_formsclear": false,
+
+  "keep_screen_on": false,
+
+  "use_device_backbutton": false,
+
+  "hide_system_dialogs": true,
+  "aggressively_hide_system_dialogs": true,
+
+  "disable_recents": true,
+  "disable_svoice": true,
+  "hide_status_bar": true,
+
+  "require_password": true,
+  "multitap_settings": true,
+  "settings_password": "481516",
+
+  "hardware_acceleration": true,
+  "javascript_interface": true,
+
+  "prevent_notification_access": true,
+  "prevent_alert_dialogs": false,
+
+  "allow_popup_windows": false,
+  "ignore_certificate_errors": false,
+
+  "cache_mode": "LOAD_DEFAULT",
+
+  "above_screen_lock": true,
+  "default_launcher_check": false
+}
