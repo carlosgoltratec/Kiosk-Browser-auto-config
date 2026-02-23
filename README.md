@@ -10,7 +10,7 @@ Basado en el manual interno **MODO_KIOSKO (PDF)** y preparado para uso en **GitH
 
 1. Requisitos
 2. Descripción general
-3. Estructura del repositorio
+3. Estructura nombre archivos
 4. Configuración por apartados de la aplicación
 
    * General
@@ -47,14 +47,10 @@ El modo kiosko permite **bloquear completamente la tablet** para que solo muestr
 
 ---
 
-## 3️⃣ Estructura del repositorio (GitHub)
+## 3️⃣ Estructura nombre archivos 
 
 ```
-/kiosk-config
- ├── README.md
- ├── empresa1.json
- ├── empresa2.json
- └── default.json
+empresa_kiosk_settings_android.json
 ```
 
 Cada archivo JSON corresponde a **un cliente o empresa**.

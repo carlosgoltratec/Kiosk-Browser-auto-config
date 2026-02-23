@@ -1,0 +1,188 @@
+{
+  "screensaver_timeout": 5, 
+  // (Tiempo de espera del salvapantallas en minutos)
+  // ⭐ A veces se ajusta según cliente
+
+  "hide_action_bar": true, 
+  // (Ocultar barra superior del navegador)
+  // ❌ No tocar en producción
+
+  "multitap_settings": true, 
+  // (Permitir acceso a ajustes con múltiples toques)
+  // ❌ Nunca desactivar
+
+  "multitap_count": 10, 
+  // (Número de toques para abrir ajustes)
+  // ⭐ Muy habitual cambiar (7–10)
+
+  "settings_password": "481516", 
+  // (PIN de administrador)
+  // ⭐ Se cambia por cliente
+
+  "kiosk_url": "https://trabajador.controldejornadalaboral.es", 
+  // (URL principal del kiosko)
+  // ⭐ EL CAMPO QUE MÁS SE CAMBIA
+
+  "custom_app_title": "Control de Jornada Laboral", 
+  // (Título visible de la aplicación)
+  // ⭐ Personalización por cliente
+
+  "idle_timeout": 30, 
+  // (Minutos de inactividad)
+  // ⭐ Se ajusta según necesidades
+
+  "idle_timeout_always_reload": true, 
+  // (Recargar siempre tras inactividad)
+  // ⭐ Normalmente siempre true
+
+  "reload_on_screen_on": true, 
+  // (Recargar cuando se enciende la pantalla)
+
+  "enable_timeout": true, 
+  // (Activar control de inactividad)
+  // ❌ No desactivar
+
+  "fullscreen_mode": true, 
+  // (Pantalla completa)
+  // ❌ Fundamental para kiosko
+
+  "lock_rotation": true, 
+  // (Bloquear rotación de pantalla)
+  // ⭐ A veces se cambia según soporte
+
+  "rotation": "Landscape", 
+  // (Orientación de pantalla)
+  // ⭐ Landscape / Portrait
+
+  "theme": "Green", 
+  // (Color del tema visual)
+  // ⭐ Estético
+
+  "page_zooming": false, 
+  // (Permitir zoom en la página)
+  // ❌ No activar (rompe UX)
+
+  "overview_mode": true, 
+  // (Vista general de la web)
+
+  "use_wide_viewport": true, 
+  // (Usar viewport ancho)
+
+  "initial_zoom": 0, 
+  // (Zoom inicial)
+
+  "show_browser_controls": false, 
+  // (Mostrar controles del navegador)
+  // ❌ No activar
+
+  "show_home_icon": false, 
+  // (Mostrar botón inicio)
+
+  "show_back_icon": false, 
+  // (Mostrar botón atrás)
+  // ❌ Nunca activar
+
+  "show_forward_icon": false, 
+  // (Mostrar botón adelante)
+
+  "show_refresh_icon": false, 
+  // (Mostrar botón refrescar)
+
+  "show_bookmarks_icon": false, 
+  // (Mostrar icono de marcadores)
+
+  "show_app_drawer_icon": false, 
+  // (Mostrar cajón de apps)
+  // ❌ Escape directo
+
+  "display_toolbar_swipe_down": false, 
+  // (Mostrar barra con gesto)
+  // ❌ Vector típico de salida
+
+  "prevent_notification_access": true, 
+  // (Bloquear notificaciones del sistema)
+  // ❌ No tocar
+
+  "hide_system_dialogs": true, 
+  // (Ocultar diálogos del sistema)
+  // ❌ Crítico
+
+  "aggressively_hide_system_dialogs": true, 
+  // (Ocultación agresiva de diálogos)
+  // ❌ Crítico
+
+  "disable_recents": true, 
+  // (Bloquear apps recientes – Samsung Knox)
+  // ❌ Nunca desactivar en Samsung
+
+  "disable_svoice": true, 
+  // (Desactivar Bixby / S Voice)
+  // ❌ Recomendado siempre
+
+  "hide_status_bar": true, 
+  // (Ocultar barra de estado)
+  // ❌ No tocar
+
+  "timeout_cookieclear": false, 
+  // (Borrar cookies al timeout)
+  // ❌ ROMPE la sesión del PIN
+
+  "timeout_storageclear": false, 
+  // (Borrar almacenamiento web)
+  // ❌ ROMPE la sesión
+
+  "timeout_cacheclear": false, 
+  // (Limpiar caché al timeout)
+
+  "timeout_formsclear": false, 
+  // (Borrar formularios)
+
+  "cacheclear_page_load": true, 
+  // (Limpiar caché al cargar página)
+
+  "hardware_acceleration": true, 
+  // (Aceleración por hardware)
+  // ❌ Necesaria para buen rendimiento
+
+  "javascript_interface": true, 
+  // (Permitir JavaScript)
+  // ❌ No desactivar
+
+  "allow_popup_windows": false, 
+  // (Permitir ventanas emergentes)
+
+  "prevent_alert_dialogs": false, 
+  // (Bloquear alertas JavaScript)
+
+  "use_device_backbutton": false, 
+  // (Usar botón físico atrás)
+  // ❌ No permitir
+
+  "keep_screen_on": false, 
+  // (Mantener pantalla encendida)
+
+  "volume_controls_enabled": true, 
+  // (Permitir botones de volumen)
+
+  "above_screen_lock": true, 
+  // (Mostrar app sobre pantalla de bloqueo)
+
+  "automatic_config_download_frequency": 15, 
+  // (Frecuencia de descarga de configuración remota)
+  // ⭐ A veces se ajusta
+
+  "cache_mode": "LOAD_DEFAULT", 
+  // (Modo de caché del navegador)
+
+  "wifi_enabled": true, 
+  // (WiFi activado)
+
+  "nfc_enabled": false, 
+  // (Habilitar NFC)
+
+  "barcode_scanner": false, 
+  // (Activar lector de códigos)
+
+  "barcode_scanner_timeout": 60 
+  // (Tiempo de espera del lector)
+}
