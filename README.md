@@ -24,7 +24,7 @@ Basado en el manual interno **MODO_KIOSKO (PDF)** y preparado para uso en **GitH
    * Auto-configuración
 5. Campos que se modifican habitualmente
 6. Recomendaciones finales
-
+7. URl
 ---
 
 ## 1️⃣ Requisitos
@@ -211,5 +211,13 @@ Permite actualizar la configuración **sin tocar la tablet**.
 * `idle_timeout`
 * `settings_password`
 * `automatic_config_url`
+
+## URL:
+
+[Tutorial para Configuracion con altos permisos]("https://help.android-kiosk.com/en/article/kb-provisioning-devices-1kgrrg5/")
+
+[Generador de QR de congiguracion]("https://www.android-kiosk.com/qrcodegenerator.htm")
+
+[Turorial Crear Automatic Configuration JSON]("https://help.android-kiosk.com/en/article/kiosk-browser-automatic-configuration-json-10jz1hs/")
 
 ---
