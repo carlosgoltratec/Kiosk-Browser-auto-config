@@ -213,15 +213,3 @@ Permite actualizar la configuración **sin tocar la tablet**.
 * `automatic_config_url`
 
 ---
-
-## 6️⃣ Recomendaciones finales
-
-* Usar **Samsung + Knox** siempre que sea posible
-* No configurar PIN de Android
-* Probar el JSON en navegador antes
-* Usar URLs **RAW de GitHub**
-* Un JSON por cliente
-
----
-
-📄 Documento preparado para **README.md en GitHub**
