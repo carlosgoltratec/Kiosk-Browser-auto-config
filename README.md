@@ -214,10 +214,10 @@ Permite actualizar la configuración **sin tocar la tablet**.
 
 ## URL:
 
-[Tutorial para Configuracion con altos permisos]("https://help.android-kiosk.com/en/article/kb-provisioning-devices-1kgrrg5/")
+[Tutorial para Configuración con altos permisos](https://help.android-kiosk.com/en/article/kb-provisioning-devices-1kgrrg5/)
 
-[Generador de QR de congiguracion]("https://www.android-kiosk.com/qrcodegenerator.htm")
+[Generador de QR de configuración](https://www.android-kiosk.com/qrcodegenerator.htm)
 
-[Turorial Crear Automatic Configuration JSON]("https://help.android-kiosk.com/en/article/kiosk-browser-automatic-configuration-json-10jz1hs/")
+[Tutorial Crear Automatic Configuration JSON](https://help.android-kiosk.com/en/article/kiosk-browser-automatic-configuration-json-10jz1hs/)
 
 ---
